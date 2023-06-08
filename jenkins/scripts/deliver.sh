@@ -24,6 +24,6 @@ echo $! > .pidfile
 set +x
 
 echo 'Now...'
-echo 'Visit http://localhost:3030 to see your Node.js/React application in action.'
-echo '(This is why you specified the "args ''-p 3030:3030''" parameter when you'
+echo 'Visit http://localhost:3333 to see your Node.js/React application in action.'
+echo '(This is why you specified the "args ''-p 3333:3333''" parameter when you'
 echo 'created your initial Pipeline as a Jenkinsfile.)'
